@@ -1,0 +1,17 @@
+textarea{
+    border-radius: 10px;
+}
+
+.form__data, textarea{
+    border: 2px solid black;
+}
+
+.fw-bold{
+    color: black;
+}
+
+@media screen {
+    .contact__form textarea{
+        width: 100%;
+    }
+}
